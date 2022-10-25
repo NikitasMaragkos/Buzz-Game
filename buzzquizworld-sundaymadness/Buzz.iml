@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 19/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 20/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 21/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 22/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 23/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 24/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 25/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 26/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 27/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 28/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 29/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 30/html" />
+      <excludeFolder url="file://$MODULE_DIR$/codemr/buzzquizworld-sundaymadness 31/html" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="src" level="project" />
+  </component>
+</module>
